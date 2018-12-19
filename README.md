@@ -8,5 +8,4 @@ Running project out of the FAU lamp servers @ http://lamp.cse.fau.edu/~lgarcia20
 <ol>
   <li>http://mpcrlab.com/</li>
   <li>http://rideshiftboard.com/</li>
-//  <li></li>
 </ol>
